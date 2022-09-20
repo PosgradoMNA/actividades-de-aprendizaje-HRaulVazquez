@@ -1,3 +1,2 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8560748&assignment_repo_type=AssignmentRepo)
-# Actividades_Aprendizaje-
-Aqui estarán mis actividades de cada semana
+Actividad de semana 1 - 2: Python for Data Science (IBM)
+![Progreso w1](https://user-images.githubusercontent.com/113948206/191163003-fbddda31-a7f2-421a-bb20-718bc982874f.png)
