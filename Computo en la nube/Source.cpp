@@ -20,11 +20,11 @@ void main() {
 	int threadId;
 	int i = 0;
 
-	// Determina cuantos elementos trabajar· cada hilo
+	// Determina cuantos elementos trabajar√° cada hilo
 	int n_per_thread = 1000 / 100;
 
 
-	//Esta es la secciÛn que se realizar· en cada hilo
+	//Esta es la secci√≥n que se realizar√° en cada hilo
 #pragma omp parallel for shared(arryA, arryB, resultado) private(i) schedule(static, n_per_thread) num_threads(100)
 	for (i = 0; i < 1000; i++) {
 		resultado[i] = arryA[i] + arryB[i];
